@@ -1,21 +1,12 @@
 # 导入包
-import csv
-import os
-import re
 import pandas as pd
 from datasets import Dataset
-import numpy as np
-import random
 import torch
 import fire
 from transformers import BartForConditionalGeneration
-from statistics import mean
-from datasets import load_dataset, load_metric
 from transformers import (
     Seq2SeqTrainer,
     Seq2SeqTrainingArguments,
-    AutoTokenizer,
-    AutoModelForSeq2SeqLM,
     BertTokenizer
 )
 from filepackage import dataloader
@@ -48,7 +39,7 @@ def main(filepath:str= 'D:\legal-judgement-Summarization\Judicial Documents shor
     batch_size = 1
     learning_rate = 3e-5
     weight_decay = 0.01
-    num_train_epochs = 100
+    num_train_epochs = 5
     random_seed = 3407
 
     dataloader.set_seed(random_seed)
@@ -150,7 +141,7 @@ def main(filepath:str= 'D:\legal-judgement-Summarization\Judicial Documents shor
     trainer.train()
 
     predictions = trainer.predict(test_df)
-    metrics= dataloader.computer_metrics(predictions)
+    metrics= dataloader.compute_metrics(predictions)
     print("ROUGE-2 Precision:", metrics['rouge2_precision'])
     print("ROUGE-2 Recall:", metrics['rouge2_recall'])
     print("ROUGE-2 Fmeasure:",metrics['rouge2_fmeasure'])

@@ -28,7 +28,7 @@ decoder_max_length = 512
 rouge = evaluate.load('rouge')
 # compute Rouge score during validation
 
-def computer_metrics(pred):
+def compute_metrics(pred):
     label_ids = pred.label_ids
     pred_ids = pred.predictions
     pred_str = tokenizer.batch_decode(pred_ids,skip_special_tokens=True)
