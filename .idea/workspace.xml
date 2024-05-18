@@ -5,11 +5,908 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb2db74c-1cd6-4c79-817d-d7327064eca2" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/开发日志/开发日志.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/019湘1126刑初277号被告人邹霞犯销售伪劣产品被告人胡秀园被告人瞿斌楠销售假冒注册商标的商品.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/019湘1126刑初440号被告人曾庆平销售伪劣产品被告人陈才谷明义王艳球廖成庞元珍犯销售假冒注册.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/019闽051刑初875号陈艺纯非法经营案一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/020湘0223执保102号申请保全人张冬秀与被申请保全人尹开华李开德欧阳新华夏凤华财产保全一案保.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/020湘0223执保103号申请保全人汤光明与被申请保全人广西湘辉房地产开发有限公司广西湘辉房地产.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/020湘0223执保104号申请保全人徐年春与被申请保全人陈三新财产保全一案保全结案告知书docx.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/020湘0223执保106号申请保全人谢桂珍与被申请保全人蔡爱琼财产保全一案保全结案告知书docx.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/020湘0223执保91号申请保全人陈堂霞欧阳天欧云汐与被申请保全人周冬娇财产保全一案保全结案告知.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/020湘0223执保93号申请保全人陈艳娟与被申请保全人陈卫中陈鹏陈天娇刘双琼财产保全一案保全结案.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/020湘0223执保95号申请保全人株洲市海达新特材料有限公司与被保全人丹江口明道新能源有限公司财.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/020湘0223执保96号申请保全人株洲市海达新特材料有限公司与被申请保全人房县顶盛新能源有限公司.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/020湘0223执保98号申请保全人王军与被申请保全人谭灵利株洲浩诚暖通设备有限公司财产保全一案保.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/020湘0223执保99号申请保全人长沙市建设工程集团有限公司与被申请保全人黄芳张文斌财产保全一案.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/020湘11刑终261号被告人刘某甲赵某甲陈某甲何某李某甲何某甲犯非法吸收公众存款罪一案二审刑事裁.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/035无锡熠生辉科技有限公司无锡普爱新能源有限公司等虚开增值税专用发票用于骗取出口退税抵扣税款发票.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/06号陈兰佩判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/10一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/10任某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/10何晓龙盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/10刘鑫诈骗罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/10嵇星星盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/10张压延危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/10曾德贵盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/10李某非法拘禁罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/10杨某某寻衅滋事一案一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/10杨雷盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/10梅新华盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/10樊建飞盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/10王某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/10王自龙危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/10胡某某交通肇事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/10赵宗胜盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/10阚某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/10陈建武非法拘禁罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/10顾黑郎受贿罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/11_寿宁法院2020闽0924刑初7号被告人陈运寿盗窃案刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/11万兆飞交通肇事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/11刘军委交通肇事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/11吉留军盗窃罪二审刑事裁定书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/11吴定志盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/11孙在林万从余等非法拘禁罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/11张海燕窝藏包庇罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/11徐珍危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/11施超危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/11李杨磊侵犯公民个人信息罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/11樊馨雯危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/11程鹏飞盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/11薛元建盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/11薛小峰盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/11被告人韦进犯盗窃罪一案一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/11赵巍危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/11韩亚伟危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/11马学锋故意杀人罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/11高建国容留他人吸毒罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12严大墙判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12何冬平判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12何国清判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12余吉珍赌博罪二审刑事裁定书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12傅子龙判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12兰俊杰判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12吉勇危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12吕成文判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12吴观宝判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12吴魁盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12夏一彭盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12崔春虎重大责任事故罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12张国其判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12朱向锋判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12朱良晓判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12李秀松危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12李纪远判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12梅洪杰判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12殷雄诈骗罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12沈某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12熊平武判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12王小红判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12王舍宝判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12王雪飞判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12范哲释判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12范晋良合同诈骗罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12蒋鸣盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12蓝春华判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12虞月芳非法吸收公众存款罪二审刑事裁定书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12覃春燕诈骗罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12赵某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12陆飞凯盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12陈勇军判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12陈杰盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12韩小问危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12顾春波判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/12魏恒魏红林等聚众斗殴罪二审刑事裁定书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/13刘某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/13卜言军危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/13号姜世平判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/13廖某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/13张彬盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/13张某某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/13曹园园容留他人吸毒罪二审刑事裁定书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/13王文义交通肇事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/13王金兄盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/13申请没收违法所得驳回申诉通知书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/13秦斌故意伤害罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/13纪占前过失致人重伤罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/13郭尚坤盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/13郭振楠盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/13钱某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/13陈慧盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/13顾某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/14任金璋诈骗罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/14何健明盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/14刘同明濮德友盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/14刘某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/14刘某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/14周正林容留他人吸毒罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/14姚成兵危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/14曹红胜危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/14朱祝平交通肇事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/14王金芳危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/14秦建忠危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/14答家兴诈骗罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/14茆恒四盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/14谢兴建危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/14赵某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/14闫飞盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/14陆冬冬盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/14陈于飞王杰盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/14陈林危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/14饶波盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/14魏忠魏祥等非法采矿罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/14黄俊贩卖毒品罪要素式判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/15倪卫冲交通肇事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/15刘某甲寻衅滋事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/15姜壮壮危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/15张某交通肇事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/15朱某甲危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/15杨某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/15毕爱强非法吸收公众存款罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/15被告人慕某某诈骗一案刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/15贺善勤危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/15邵力波走私普通货物物品罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/15顾建良聚众斗殴罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/15马少寒盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/15黄建锋诈骗罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/15黄海洋敲诈勒索罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/16刘前进强奸罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/16岳立斌诈骗罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/16张永兵危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/16李大海盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/16李建东王为波等污染环境罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/16杜玉柱盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/16杨亚龙盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/16王攀盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/16王某伪造公司企业事业单位人民团体印章罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/16秦永彬盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/16蔡欣受贿罪二审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/16钱丽芬故意伤害罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/16闫海亮危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/16陈恒辉盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/16陈某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/16马佩良盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17-1064梁经益危险驾驶案刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17-1335陈某豪故意伤害罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17-1342刘某平危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17-1421梁某强故意伤害一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17-1455张某明盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17-1479梁某敏故意伤害罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17-1499黄某勇交通肇事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17-1532刘某军故意伤害罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17-1544侯某波危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17-1663陈某华盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17-1688冯某泽故意伤害罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17-1692周某俊危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17-1696殷某康盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17-266王辉妨害公务案刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17-79黄信等开设赌场判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17-812许方健盗窃判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17-888吴美宗信用卡诈骗案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17-919叶应龙盗窃案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17-947任四建盗窃判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17-955李露露盗窃判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17-956吴健容留他人吸毒驶判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17-959张红飞盗窃判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17-975丁坚危险驾驶判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17-977潘金根容留他人吸毒案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17-978方伟琪盗窃案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17-978袁作山盗窃案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17-985邹登平危险驾驶判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17-988徐银寿盗窃判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17-989陈永乐介绍卖淫案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17刑初1112号郑某珍赌博罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17刑初1155号伍某祺危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17刑初1203号李某奇等故意毁坏财物罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17刑初1217号邱某平放火罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17刑初1255号刘某武寻衅滋事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17刑初1306号林某秋职务侵占罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17刑初1370号陈某等寻衅滋事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17吴勇平盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17吴爱明非法采矿罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17唐利宽危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17孙玉来盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17孙静盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17施行亮盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17曹文霞盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17朱俊国危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17梁继东危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17王冰盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17王某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17秦宁盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17纪桂玲故意杀人罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17范云拒不执行判决裁定罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17马某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/17黄薛波赌博罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1000韩汝忠盗窃案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1031温昌龙判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1033所尔日补盗窃案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1041吕祥旺危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1049李飞盗窃案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1073许有恭危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1097温福彬危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1117陈见金危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1131陈清艺危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1147古伦胜盗窃案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1166陈智星危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1171高碰狮危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1172林延日危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1173郇士分危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1175高迎迎诈骗案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1176刘炳强危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1177庄文忠危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1179杨宝辉危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1181陈银杰危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1184曾华平危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1185周洪彬危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1186胡云危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1187汪小刚危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1189陈正启危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1190陈明远危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1193汪开洪危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1194彭剑尾危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1201赵二娃盗窃案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1202欧旭盗窃案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1203吴继兴危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1224李小群盗窃案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1227陈圣煌危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1229丁明进危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1231王海丽危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1234余耀军危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1236余养谈危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1238许荣结危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1240周为国危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1246骆超危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1247陈钦危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1255程元元危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1259赵庆星危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1260曾九生危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1261李林盗窃案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1262邹颖鹏危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1264刘振海危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1265潘翔危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1266梁远龙危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1267余强危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1268叶赐泽危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1269林涌危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1270陈湾林危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1273尹小平危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1286范青云危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1288牟彬彬危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-1300邓安军危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-169骆亚平等七人贩卖毒品判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-286廖福明盗窃一案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-296吴道克危险驾驶判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-311肖爱平盗窃案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-333陈某故意伤害罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-342龚月新敲诈勒索罪判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-348代中丹刘飘然诈骗案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-354崔某茹妨害公务罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-387陈斗银等2人盗窃案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-403尚某锋故意伤害罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-486潘某文盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-509陆建华容留他人吸毒案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-514谢光石故意伤害案刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-515王木海诈骗案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-540伍巍林危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-577姚宝强奸案刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-581吴事全盗窃案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-607雷焱盗窃案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-641卢伍渊信用卡诈骗案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-659高坤等2人盗窃案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-66蒋光辉张林明盗窃判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-699王辉泉危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-700施生飞盗窃案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-704叶建炜危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-710刘启华危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-715李永妨害公务案刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-766谢康等3人盗窃案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-791梁清良寻衅滋事罪判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-805王守柱盗窃案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-835张月刚盗窃案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-911张春林诈骗案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-924郭淘诈骗案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-959陈小梅何涛妨害公务案刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-980王印娇危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-998严路生盗窃案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18-许奕嘉等2人盗窃案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18于广恩牛元军诈骗罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18何小钢非法采矿罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18吴文江盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18周琼孔淑婷盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18尹某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18张某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18张用庭盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18徐亚洲盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18徐曙危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18李冰洲危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18李斌盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18杨刚菊诈骗罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18汪静怡诈骗罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18王安祥交通肇事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18被告人何某某盗窃一案一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18陈东东蔡云龙非法经营罪二审刑事裁定书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/18顾伟业盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-087何言枫等人诈骗案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-103李上平盗窃案刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-105邹俊龙寻衅滋事刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-106蒋洪成危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-110钱中山危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-111梁文荣刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-117余耀松危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-124牟一文危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-127胡军伟危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-128卢章挺危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-129吴宜才危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-130王坤明危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-132曾志彬危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-133吴联奖非法制造商标标识罪 判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-134王振祥危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-135黄亮危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-136方青松危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-139柯培养危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-176罗先友16人诈骗罪刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-178郑韵等人贩卖毒品案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-184号陈清叶宝国判决书一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-223曾海峰判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-230夏金虎判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-236朱良达故意伤害判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-25余盛锋故意伤害罪判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-303肖殿灿判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-30王鹏远危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-311张晓迪判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-320陶有龙寻衅滋事罪判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-32亓蓉等11人非法吸收公众存款案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-335张有军妨害公务案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-345寿欣昊等人贩卖毒品案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-381卢伟朝判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-38曾秀霞销售假药罪判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-40方枝松危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-429王佳政等人非法拘禁判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-42朱槐银危险驾驶罪刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-430王振东等人贩卖毒品案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-448黄耀华许祥贩卖毒品容留他人吸毒判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-46许永发危险驾驶罪刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-47张庭森盗窃案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-494金丽君故意伤害刑附民判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-510张兴福交通肇事案刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-516张兴旺犯拒不支付劳动报酬罪刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-520潘东东盗窃案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-527许丰舟交通肇事案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-61洪中华故意毁坏财物判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-631吴萍等八人赌博判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-63罗开雄16人开设赌场罪刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-642蔡慧慧妨害公务罪普通程序认罪认罚判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-642郭玉林张敏非法捕捞水产品普通程序认罪认罚判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-67胡超刚盗窃判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-692陈艳萍盗窃普通程序判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-712翁金宝故意伤害判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-741 王理诈骗罪判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-785刘胜浩寻衅滋事罪判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-785孟令河盗窃简在押.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-800徐荣华 赌博罪判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-850王潇诈骗简易认罪认罚判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-862徐宁盗窃简易认罪认罚判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-863刘润泽贩卖毒品容留他人吸毒罪判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-866郑承政等5人故意伤害简合议认罪认罚判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-867朱星宇王斌诈骗简易认罪认罚判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-868李四玉网络诈骗简易认罪认罚判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-876倪祝祥贩卖毒品简易认罪认罚判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-880齐兵兵盗窃普通程序认罪认罚判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-881王启明容留他人吸毒简易认罪认罚判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-883赵翔诈骗简易认罪认罚判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-891李泽民张继鹏盗窃速裁判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-892张杰危险驾驶判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-894包建康危险驾驶判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-896涂春山盗窃速裁判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-897吴进林盗窃简易认罪认罚判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-902洪小波盗窃速裁判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-91王胜华危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-93何兵危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-943被告人汪某贩卖毒品案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-97钟家堰危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-99唐仁贵危险驾驶刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-刑515余仲建贩卖毒品判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19-牟寅龙危险驾驶判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19刑569号杨秋芳判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19刑初336连两吉交通肇事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19刑初352吴耀扬陈志鸿聚众斗殴罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19刑初353吴文钦盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19刑初373林建栋交通肇事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19刑初392郭忠水强奸罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19刑初496号冯元锐贩毒刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19刑初682号蒋细妹贩毒刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19孙某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19崔晶交通肇事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19张强生产销售伪劣产品罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19张某交通肇事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19张某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19张爱闯危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19徐延鑫盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19杨某盗窃罪诈骗罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19潘亮盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19王杰开设赌场罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19王舒敏盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19许菊英盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19路中国盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19邱海勇盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19郭翔鸿危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19郭胜盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19闽0182刑初58号陈楚柯雨凯邹志壕聚众斗殴一审判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19闽0902刑初508号王丽庄拒执刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19闽0902刑初708号刘盛华盗窃刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19闽0902刑初723号黄维淮容留吸毒刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19陈金春危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19顾为明非法采矿罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/19马某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20-021张玉林危险驾驶案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20-037张锋非国家工作人员受贿罪判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20-080刘伟交通肇事案刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20-110黄加产交通肇事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20-123陶虎山非法拘禁案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20-131张群故意伤害案判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20-144葛卫星故意伤害判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20-148周必聪危险驾驶判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20-17林思庆故意伤害罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20-186徐进孙佑权诈骗简易认罪认罚判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20-275 杨伟 危险驾驶 判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20-279俞建垚交通肇事刑事一审判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20-33陈理剑 危险驾驶 判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20-44陈国新故意伤害刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20刘俊亮行贿罪串通投标罪江苏孚瑞交通工程有限公司胡启明串通投标罪二审刑事裁定书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20吴启猛盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20吴某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20季杭林危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20年523号调解书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20张丛军盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20徐寿义盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20李某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20段夫根非法采矿罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20民初1219-岳龙诉刘云-驳回起诉doc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20潘荣江盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20范广侠盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20行审174-息自然局诉弯柳树村委会-准予doc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20行审176-息自然局诉丁小丽-准予doc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20行审182-息自然局诉贾中伟-准予doc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20行审184-息自然局诉邹中华-准予doc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20行审192-息自然局诉郑双进-准予doc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20赣584号离婚docx.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20赣775号抚养费docx.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20赵海峰盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20赵腾飞开设赌场罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20邵万伟盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20陈某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20顾建东非法行医罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20顾志江开设赌场罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20－242敖文斌诈骗罪刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20－272金奎水掩饰隐瞒犯罪所得刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/20－305陈平盗窃刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/21刘广生危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/21刘文辉盗窃罪二审刑事裁定书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/21刘某甲盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/21刘钢铁刘传刚等滥伐林木罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/21张丽危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/21张红兵盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/21李东东盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/21杨桃危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/21杨正龙盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/21梅立毅故意杀人罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/21沈明华容留他人吸毒罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/21王某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/21郭章明任中强盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/21陈某甲危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/21霍永江开设赌场罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/21韩聪诈骗罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/21顾华健交通肇事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/21马金松诈骗罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/21黄云冲盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/22冯滔盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/22华旗吴明晒非法狩猎罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/22叶明汉故意毁坏财物罪二审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/22夏俊鹏王卫等寻衅滋事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/22宫亚进危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/22张桂堂危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/22徐如华盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/22徐春明危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/22朱晓林敲诈勒索罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/22李某故意伤害罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/22杨伟盗窃罪二审刑事裁定书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/22江凯盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/22泰兴市城西电镀厂季寿红等污染环境罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/22潘凤彬非法采矿罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/22王少友生产销售有毒有害食品罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/22盖微悦肖旸等盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/22薛余泉危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/22郎泉盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/22陈某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/22韩锡金危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/22马中健盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/22鲍伟盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/22黄友海危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/23吉有才盗窃罪二审刑事裁定书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/23吴远诈骗罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/23唐某故意伤害罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/23孙振忠危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/23孟号号盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/23徐丰盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/23李飞虎诈骗罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/23沙红胜危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/23申某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/23秦雪峰放火罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/23赵友国危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/23邰元盗窃罪二审刑事裁定书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/24刘某甲刘某乙盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/24号孙根方判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/24号章宜瑛诉宋存荣民间借贷纠纷调解书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/24孙兴奎危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/24张某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/24李某妨害公务罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/24杨大伟盗窃罪二审刑事裁定书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/24欧海龙故意伤害罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/24沈冯佳妨害公务罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/24王建华诈骗罪二审刑事裁定书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/24王自超盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/24盛梦非盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/24蔡荣荣盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/24郭海危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/24陈某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/24陈燕妨害公务罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/25_2019-116梅万发交通肇事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/25一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/25唐贵一交通肇事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/25庄元伟故意伤害罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/25张某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/25朱健危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/25李某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/25李某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/25束某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/25杨某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/25樊新危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/25白洪锤危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/25许强假冒注册商标罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/25陈新华盗窃罪二审刑事裁定书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/25高某某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/25黄伟明危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/25黄梅销售假冒注册商标的商品罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/26丁某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/26何顺东盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/26刘学诈骗罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/26卢某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/26号富彩良危险驾驶判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/26张壮盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/26张某甲危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/26曾加进盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/26李永波故意伤害罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/26束某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/26杨定海危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/26沈斌危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/26王仁兵盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/26王焕贞盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/26白宗明刘建钧等开设赌场罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/26葛高建盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/26谢金生危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/26谷玉海销售假冒注册商标的商品罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/26高亚明受贿罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/27刘传伟开设赌场罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/27夏学乐寻衅滋事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/27宋永辉生产销售伪劣产品罪二审刑事裁定书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/27尹志刚受贿罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/27张正贵盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/27李某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/27杨麒冠盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/27沈安亮交通肇事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/27温玉华故意毁坏财物罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/27王建抢劫罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/27王某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/27胡士文交通肇事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/27袁建新故意伤害罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/27许某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/27郑婉婉马婉侵犯公民个人信息罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/27郭晓明寻衅滋事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/27陆某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/27陈某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/28刘某交通肇事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/28刘某诈骗罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/28吴从生盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/28吴辉毛宇星走私贩卖运输制造毒品罪王秀琪走私贩卖运输制造毒品罪容留他人吸毒罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/28周威盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/28周某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/28季坤成盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/28徐德利故意伤害罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/28於某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/28曹某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/28朱平华危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/28朱泽利盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/28杨晶晶危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/28杨某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/28谭霞妨害公务罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/28陆欢容留他人吸毒罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/29一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/29俞春方危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/29刘某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/29刘某某诈骗罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/29刘贾根盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/29吴春喜危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/29张学虎交通肇事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/29张某甲盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/29张祥陈凯盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/29张连军危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/29徐某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/29徐某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/29李全虎危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/29李某交通肇事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/29杨小伟盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/29桑爱民盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/29石某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/29蔡磊盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/29顾某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/30付云引诱容留介绍卖淫罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/30冯广德盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/30包某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/30卢仁健危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/30吕新危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/30吴学书盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/30朱军委解桂友等故意伤害罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/30李某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/30田丽危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/30秦伟兵盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/30葛俊山危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/30蔡针好盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/30郭宝飞容留他人吸毒罪二审刑事裁定书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/30陈某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/30陈绍军盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/31一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/31刑事裁定书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/31刘文明盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/31号陈慰太容留卖淫罪认罪认罚一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/31周来华危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/31孙某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/31张某妨害公务罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/31杭万东盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/31王少奇危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/31王秋什寻衅滋事罪二审刑事裁定书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/31王陆林盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/31解建徐利刚职务侵占罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/31郎卫国危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/31钱玉堂危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/31马小云盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/32一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/32刘君山危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/32号温如华滥伐林木判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/32周二亮张小虎等盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/32唐大力盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/32张某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/32张某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/32张海轩组织卖淫罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/32张涛危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/32张胜田盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/32徐忠肖百华盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/32徐春梅董祝建盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/32施寄平非法制造买卖运输邮寄储存枪支弹药爆炸物罪非法持有私藏枪支弹药罪冒某非法制造买卖运输邮寄储.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/32朱中楼盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/32杜某敲诈勒索罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/32杨付成危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/32蒋雪亮危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/32陈建强危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/33吴志峰危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/33周某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/33姜晓宇盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/33孙志刚故意伤害罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/33宋某诈骗罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/33张友福盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/33张某妨害公务罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/33徐某交通肇事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/33李国盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/33李崇亮危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/33李明峰故意杀人罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/33李某容留他人吸毒罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/33李某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/33杨丹丹交通肇事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/33程朋盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/33肖敏诈骗罪二审刑事裁定书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/33蒋宏杨盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/33袁文军危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/33辛某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/33陈云祥诈骗罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/33马四勇诈骗罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/33高勇杰危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/33黄某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/34号周贤满判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/34孔某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/34张某朱某某诈骗罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/34徐东成过失致人死亡罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/34戴勇危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/34朱某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/34朱某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/34李坤伦盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/34沈扬盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/34沈正凯寻衅滋事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/34陈某交通肇事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/34韩卫军盗窃罪二审刑事裁定书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/34鲁圣根危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/34黎杰赌博罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/35刘某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/35号周梅芳等人判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/35吴梦雪盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/35周建坤容留他人吸毒罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/35孟某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/35张某交通肇事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/35沈海豹一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/35王建君宋向锋等盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/35王浩盗窃罪二审刑事裁定书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/35王立彪盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/35王荣容留他人吸毒罪二审刑事裁定书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/35疏罗信盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/35胡兴科买卖身份证件罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/35董宝清非法行医罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/35陈某生产销售有毒有害食品罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/36丁建波盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/36号王顺德非法猎捕杀害珍贵濒危野生动物罪刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/36吴某交通肇事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/36张建泉盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/36张文海危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/36汪少鹏盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/36范贤欢朱啟虎走私贩卖运输制造毒品罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/36袁某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/36赵斯红盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/36陆某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/36黄某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/37一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/37余洪禄危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/37吴庆军盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/37吴老贵德盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/37张鸿图危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/37朱晓阳危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/37李伏福盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/37江建峰诈骗罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/37王某甲盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/37秦江盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/37胡春刚盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/37蔡某甲危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/37鞠某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/38于冬馨盗窃罪二审刑事裁定书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/38倪某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/38号吕福仁吕福贵刘风中非法经营罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/38周志林盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/38周雨危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/38夏某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/38季度非国家工作人员受贿罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/38张某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/38李秋平诈骗罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/38李长军危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/38杜品芳盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/38苑某周某甲生产销售假药罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/38蒋红权交通肇事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/38贾哲诈骗罪二审刑事裁定书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/38陈某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/38陈立果盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/38顾雪松危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/39一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/39刘艳华危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/39吴杰锋破坏计算机信息系统罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/39吴金南朱兵妨害公务罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/39孙庭威盗窃罪二审刑事裁定书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/39张万松故意伤害罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/39张晓超盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/39徐金珍妨害公务罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/39戴银兵危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/39杨某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/39王某甲危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/39王某甲盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/39王某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/39秦季军传播淫秽物品罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/39罗代会盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/39蒋廷旭任林照等滥伐林木罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/39蔡红健危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/39郑新利盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/39陆某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/39黄秀光走私国家禁止进出口的货物物品罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/39黎长清盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/40号于振有非法猎捕杀害珍贵濒危野生动物罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/40周某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/40姚倩亮盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/40张某甲盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/40张某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/40徐某甲盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/40方金伟危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/40曹猛危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/40梁盼盼开设赌场罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/40王某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/40王某故意伤害罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/40王海妨害公务罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/40申请没收违法所得驳回申诉通知书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/40胡某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/40蔡永华危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/40谢江锋走私贩卖运输制造毒品罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/40赵二辉盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/40赵某诈骗罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/40钱某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/40陈士文诈骗罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/40韦某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/40顾建青危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/41何某故意伤害罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/41倪英跃危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/41号判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/41孙某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/41宋桂香组织利用会道门邪教组织利用迷信破坏法律实施罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/41沈学飞盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/41陈国友交通肇事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/41陈延静盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/41陈某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/41陈正一开设赌场罪二审刑事裁定书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/5张长喜盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/6何金宇危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/6刘志华盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/6单红文危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/6吴允通走私普通货物物品罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/6吴帅危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/6吴楠盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/6周成成盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/6周江苏盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/6周浩诈骗罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/6李某龙某某盗窃一案一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/6杨某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/6潘华勤走私普通货物物品罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/6王爱清胡国辉盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/6郭文防盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/6陆志中盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/6陆洪飞危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/6陈某重大责任事故罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/6顾绍坤开设赌场罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/6马某交通肇事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/7一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/7刘某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/7刘龙开设赌场罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/7周文化危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/7孟庆标盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/7屠友涛盗窃罪二审刑事裁定书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/7张玉柱交通肇事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/7曹忠盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/7李中一侵犯公民个人信息罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/7李志明危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/7欧阳桃春妨害公务罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/7缪维盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/7薛某某曹某某等敲诈勒索罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/7陈印受贿罪滥用职权罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/7韩某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/7高亚文聚众斗殴罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/7高邦周危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/8_何秋阁危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/8丁某甲危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/8刘某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/8周某聚众斗殴罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/8张某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/8李伏健危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/8李庆元王桂青销售假冒注册商标的商品罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/8王春景危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/8蒋某容留他人吸毒罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/8赵新端龚志兰盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/9_杨羽聪容留他人吸毒罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/9丁维玉危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/9仇春生盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/9刘某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/9号 陈永青贩卖毒品  判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/9吴桂平过失致人死亡罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/9吴长勇盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/9周某危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/9孙跃危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/9朱开全走私普通货物物品罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/9李松奇盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/9杨红春交通肇事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/9林玉虎危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/9王堂啟盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/9窦伟达盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/9赵刚盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/9陈某交通肇事罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/9陈磊过失致人死亡罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/9高某盗窃罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Judicial Documents shorter/9高磊危险驾驶罪一审刑事判决书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_save/分割数据.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filepackage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filepackage/dataloader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_shorter_example.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/开发日志/开发日志.md" beforeDir="false" afterPath="$PROJECT_DIR$/开发日志/开发日志.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,20 +930,25 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2gZkKTLtotl6PDtHtcLdi4STArG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.main.executor": "Run",
+    "Python.test_shorter_example.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/legal-judgement-Summarization"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="Python.test_shorter_example">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="legal-judgement-Summarization" />
       <option name="ENV_FILES" value="" />
@@ -69,8 +971,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test_shorter_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="legal-judgement-Summarization" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_shorter_example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_shorter_example" />
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
@@ -91,6 +1016,20 @@
       <option name="presentableId" value="Default" />
       <updated>1715912422161</updated>
     </task>
+    <task id="LOCAL-00001" summary="second">
+      <option name="closed" value="true" />
+      <created>1715921666212</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715921666212</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="second" />
+    <option name="LAST_COMMIT_MESSAGE" value="second" />
   </component>
 </project>
