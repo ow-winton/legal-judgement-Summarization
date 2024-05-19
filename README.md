@@ -10,3 +10,8 @@ this project based on bart-base-chinese model
    If you need the chinese legal judgement, please send the email to me through the e-mail in my home page
 
 4. Then you can run this project
+
+
+# If you want to develop this project on cloud server
+using the SSH to connect to the server and upload the project and dataset
+
