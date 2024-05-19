@@ -9,7 +9,11 @@ this project based on bart-base-chinese model
 3. Then download the data set
    If you need the chinese legal judgement, please send the email to me through the e-mail in my home page
 
-4. Then you can run this project
+4. Then you can run this project in the command
+   ```
+   python main.py
+   ```
+5. The result will be saved in the project, and the model will be saved in the models folder
 
 
 # If you want to develop this project on cloud server
