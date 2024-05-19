@@ -1,4 +1,4 @@
-# This is a reproduction project of legal judgement summarization 
+# This is a project of legal judgement summarization 
 this project based on bart-base-chinese model 
 # Using
 1. Using this project, you should clone this project from github
