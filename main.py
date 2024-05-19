@@ -1,6 +1,8 @@
 # 导入包
+import sys
+import os
 import pandas as pd
-from datasets import Dataset
+from datasets import Dataset, load_metric
 import torch
 import fire
 from transformers import BartForConditionalGeneration
@@ -9,10 +11,11 @@ from transformers import (
     Seq2SeqTrainingArguments,
     BertTokenizer
 )
+import os
 from filepackage import dataloader
 import evaluate
 
-def main(filepath:str= 'D:\legal-judgement-Summarization\Judicial Documents shorter' # 目前的开发使用前一百多个数据
+def main(filepath:str= '/root/autodl-tmp/legal/Judicial Documents shorter' # 目前的开发使用前一百多个数据
          ):
     # 加载数据集
     train_df_original, val_df_original, test_df_original = dataloader.load_data_from_file(filepath)
@@ -25,12 +28,24 @@ def main(filepath:str= 'D:\legal-judgement-Summarization\Judicial Documents shor
 
     # 加载 ROUGE 评估指标 load_metric 是 Hugging Face 的一个方法，用于加载评估指标
     # rouge =load_metric('rouge')
-    rouge = evaluate.load('rouge') # 由于metric 在下一个主要版本移除，所以改用evaluate方法
+    #rouge = load_metric("rouge",trust_remote_code=True) # 由于metric 在下一个主要版本移除，所以改用evaluate方法
+    try:
+        rouge = load_metric("rouge",trust_remote_code=True)
+        print("Rouge evaluation module loaded successfully")
+    except Exception as e:
+        print(f"Error loading Rouge evaluation module: {e}")
+    model_path = "/root/autodl-tmp/legal/models/fnlp-bart-base-chinese"
     #加载 BERT 分词器  加载预训练的 BERT 分词器，用于将文本转换为token格式，也就是数字格式（）
-    tokenizer = BertTokenizer.from_pretrained("fnlp/bart-base-chinese")
+    #tokenizer = BertTokenizer.from_pretrained(model_path)
+    try:
+        tokenizer = BertTokenizer.from_pretrained(model_path)
+        print("Tokenizer loaded successfully")
+    except Exception as e:
+        print(f"Error loading tokenizer: {e}")
+    #tokenizer = BertTokenizer.from_pretrained("fnlp/bart-base-chinese")
     #bert-base-chinese是以一个字作为一个词，开头是特殊符号 [CLS]，两个句子中间用 [SEP] 分隔，句子末尾也是 [SEP]，最后用 [PAD] 将句子填充到 max_length 长度
 
-
+    print("zheli")
     #设置编码器和解码器的最大长度
     encoder_max_length = 512
     decoder_max_length = 512
@@ -39,7 +54,7 @@ def main(filepath:str= 'D:\legal-judgement-Summarization\Judicial Documents shor
     batch_size = 1
     learning_rate = 3e-5
     weight_decay = 0.01
-    num_train_epochs = 5
+    num_train_epochs = 15
     random_seed = 3407
 
     dataloader.set_seed(random_seed)
@@ -116,7 +131,15 @@ def main(filepath:str= 'D:\legal-judgement-Summarization\Judicial Documents shor
 
 
     # load model + enable gradient checkpointing & disable cache for checkpointing
-    model = BartForConditionalGeneration.from_pretrained("fnlp/bart-base-chinese",use_cache=False)
+   #model = BartForConditionalGeneration.from_pretrained("fnlp/bart-base-chinese",use_cache=False)
+    try:
+        model = BartForConditionalGeneration.from_pretrained(model_path, use_cache=False)
+        print("Model loaded successfully")
+    except Exception as e:
+        print(f"Error loading model: {e}")
+        # 在模型加载失败时执行其他操作，比如提供错误提示或者退出程序
+        # 这里可以添加适当的处理代码，比如退出程序或者使用默认配置创建一个模型实例
+        sys.exit(1)  # 退出程序，返回非零状态码表示错误
 
     model.config.num_beams = 4
     model.config.max_length = 512
@@ -141,17 +164,29 @@ def main(filepath:str= 'D:\legal-judgement-Summarization\Judicial Documents shor
     trainer.train()
 
     predictions = trainer.predict(test_df)
-    metrics= dataloader.compute_metrics(predictions)
-    print("ROUGE-2 Precision:", metrics['rouge2_precision'])
-    print("ROUGE-2 Recall:", metrics['rouge2_recall'])
-    print("ROUGE-2 Fmeasure:",metrics['rouge2_fmeasure'])
+
+    # 检查预测结果
+    if predictions.predictions is None:
+        print("预测结果为空，无法计算ROUGE分数。")
+        return
+
+    # 计算ROUGE分数
+    metrics = dataloader.compute_metrics(predictions)
+
+    # 检查并打印ROUGE分数
+    if "rouge2_precision" not in metrics:
+        print("ROUGE分数计算失败，未找到'rouge2_precision'键。")
+    else:
+        print("ROUGE-2 Precision:", metrics['rouge2_precision'])
+        print("ROUGE-2 Recall:", metrics['rouge2_recall'])
+        print("ROUGE-2 Fmeasure:", metrics['rouge2_fmeasure'])
+
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     model.to(device)
 
     def generate_summarization(batch):
         inputs_dict = tokenizer(batch["source"], padding="max_length", max_length=512, return_tensors="pt",
                                 truncation=True)
-        # Move tensors to the device
         input_ids = inputs_dict.input_ids.to(device)
         predicted_abstract_ids = model.generate(input_ids)
         batch["predicted_target"] = tokenizer.batch_decode(predicted_abstract_ids, skip_special_tokens=True)
@@ -161,7 +196,6 @@ def main(filepath:str= 'D:\legal-judgement-Summarization\Judicial Documents shor
     result_df = pd.DataFrame(result)
     result_df.to_csv("result.csv")
 
+
 if __name__ == '__main__':
     fire.Fire(main)
-
-

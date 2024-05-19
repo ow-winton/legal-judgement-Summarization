@@ -1,6 +1,9 @@
 # 导入包
 import csv
 # 导入包
+import logging
+logging.basicConfig(level=logging.DEBUG)
+logger = logging.getLogger(__name__)
 import csv
 import os
 import re
@@ -22,29 +25,50 @@ from transformers import (
 )
 from filepackage import dataloader
 import evaluate
-tokenizer = BertTokenizer.from_pretrained("fnlp/bart-base-chinese")
+from transformers import BertTokenizer
+
+# 使用相对路径加载模型
+print("Current working directory:", os.getcwd())
+
+# 设置模型的绝对路径
+model_path = "/root/autodl-tmp/legal/models/fnlp-bart-base-chinese"
+print("Loading tokenizer and model from:", model_path)
+
+# 打印目录内容
+print("Contents of model directory:", os.listdir(model_path))
+
+# 使用绝对路径加载模型
+tokenizer = BertTokenizer.from_pretrained(model_path)
 encoder_max_length = 512
 decoder_max_length = 512
-rouge = evaluate.load('rouge')
+rouge = load_metric("rouge")
 # compute Rouge score during validation
 
 def compute_metrics(pred):
     label_ids = pred.label_ids
     pred_ids = pred.predictions
-    pred_str = tokenizer.batch_decode(pred_ids,skip_special_tokens=True)
-    label_ids[label_ids==-100] = tokenizer.pad_token_id
-    label_str = tokenizer.batch_decode(label_ids,skip_special_tokens=True)
-    rouge2_output = rouge.compute(predictions = pred_str,reference= label_str,rouge_types =["rouge2"])["rouge2"].mid
+    if label_ids is None or pred_ids is None:
+        logger.warning("预测或参考文本为空，跳过此批次的ROUGE计算。")
+        return {}
 
+    pred_str = tokenizer.batch_decode(pred_ids, skip_special_tokens=True)
+    label_ids[label_ids == -100] = tokenizer.pad_token_id
+    label_str = tokenizer.batch_decode(label_ids, skip_special_tokens=True)
 
-    return {
-        "rouge2_precision": round(rouge2_output.precision, 4),
-        "rouge2_recall": round(rouge2_output.recall, 4),
-        "rouge2_fmeasure": round(rouge2_output.fmeasure, 4)
-    }
+    try:
+        rouge2_output = rouge.compute(predictions=pred_str, references=label_str, rouge_types=["rouge2"])["rouge2"].mid
+        return {
+            "rouge2_precision": round(rouge2_output.precision, 4),
+            "rouge2_recall": round(rouge2_output.recall, 4),
+            "rouge2_fmeasure": round(rouge2_output.fmeasure, 4)
+        }
+    except Exception as e:
+        logger.error(f"在计算ROUGE分数时发生错误：{e}")
+        return {}
+
 def transfer_Data_to_inputs(batch, tokenizer, encoder_max_length=512, decoder_max_length=512):
     inputs = tokenizer(
-        batch["soruce"],
+        batch["source"],
         padding ="max_length",
         truncation = True,
         max_length = encoder_max_length
@@ -103,7 +127,7 @@ def load_data_from_file(filepath):
         data_dict = {}
 
         if len(parts)==2:  # 如果成果分割就将他存储在dict里面
-            data_dict["soruce"] = parts[0]
+            data_dict["source"] = parts[0]
             data_dict["target"]=parts[1]
         else:
             data_dict["source"] = data
